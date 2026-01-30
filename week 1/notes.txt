@@ -1,1 +1,2 @@
 Git is a version control system that tracks changes to files.
+Git connects with RStudio to track files.
